@@ -1,2 +1,2 @@
 # wp-core-plugin
-Added wp core module - akismet
+Added wp core plugin - akismet
